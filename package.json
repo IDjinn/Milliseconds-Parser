@@ -1,6 +1,6 @@
 {
   "name": "milliseconds-parser",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "main": "build/index.js",
   "scripts": {
     "dev": "mkdir build && copy .\\src\\*.json .\\build\\ && tsc"
@@ -12,6 +12,10 @@
   "devDependencies": {
     "@types/node": "^14.6.0"
   },
-  "homepage": "",
+  "homepage": "https://www.npmjs.com/package/milliseconds-parser",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IDjinn/Milliseconds-Parser"
+  },
   "keywords": ["milliseconds-parser","duration-converter", "duration", "parse-duration"]
 }
