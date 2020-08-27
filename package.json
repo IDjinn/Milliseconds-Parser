@@ -1,0 +1,17 @@
+{
+  "name": "milliseconds-parser",
+  "version": "1.0.0",
+  "main": "build/index.js",
+  "scripts": {
+    "dev": "mkdir build && copy .\\src\\*.json .\\build\\ && tsc"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "milliseconds-parser": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^14.6.0"
+  },
+  "homepage": "",
+  "keywords": ["milliseconds-parser","duration-converter", "duration", "parse-duration"]
+}

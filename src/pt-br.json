@@ -1,0 +1,10 @@
+{
+    "year": ["ano", "anos", "a"],
+    "month": ["mes", "mês", "meses"],
+    "week": ["semana", "semanas", "w"],
+    "day": ["dia", "dias", "d"],
+    "hour": ["hora", "horas", "h"],
+    "minute": ["minuto", "minutos", "min", "mins", "m"],
+    "second": ["segundo", "segundos", "sec", "secs", "s"],
+    "millisecond": ["milisegundo", "milisegundos", "ms"]
+}

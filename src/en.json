@@ -1,0 +1,10 @@
+{
+    "year": ["year", "years", "y"],
+    "month": ["month", "months"],
+    "week": ["week", "weeks", "w"],
+    "day": ["day", "days", "d"],
+    "hour": ["hour", "hours", "h"],
+    "minute": ["minute", "minutes", "min", "mins", "m"],
+    "second": ["second", "seconds", "sec", "secs", "s"],
+    "millisecond": ["millisecond", "milliseconds", "milli", "millis", "ms"]
+}
